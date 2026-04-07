@@ -37,5 +37,3 @@ This project was built to practice **React basics**, especially:
 - Building reusable components  
 
 ---
-
-## 📁 Project Structure
